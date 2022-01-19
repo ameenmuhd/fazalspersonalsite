@@ -1445,7 +1445,7 @@ blockquote {
 }
 
 
-
+/*             video section             */
 
 section {
   position: relative;
@@ -1501,6 +1501,10 @@ section .overlay {
   }
 }
 
+/*  video section ends   */
+
+/*  portfoli image text centered  */
+
 .centered{
   position: absolute;
   top: 50%;
@@ -1509,7 +1513,9 @@ section .overlay {
 }
 
 .h4font{
-  font-size: 18px;
+  font-size: 20px;
   color: #666;
   font-weight: 600;
 }
+
+/*  portfoli image text centered ends  */
